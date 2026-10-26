@@ -1,0 +1,9 @@
+categoria,flujos,duracion_prom_seg,paquetes_prom,bytes_por_paquete_prom,ratio_respuesta_prom,mediana_bytes_s,puertos_distintos
+Benigno,48888,14.927,60.5,630.8,2.33,2496.4,10
+DoS,4948,3.808,11.1,804.4,0.63,8625.0,1
+Escaneo de puertos,3123,0.0,2.0,3.0,0.39,57692.3,981
+DDoS,2398,2.489,8.0,706.7,0.75,2216.2,1
+Fuerza bruta,370,5.991,31.6,50.3,1.21,258.8,2
+Botnet,67,0.468,7.2,163.6,0.91,2729.1,2
+Ataque web,52,3.158,10.3,283.4,0.73,770.5,1
+Infiltración,5,30.245,274.0,491.0,0.8,3486.1,3

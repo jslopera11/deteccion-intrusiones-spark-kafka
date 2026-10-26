@@ -1,0 +1,11 @@
+destination_port,servicio,count
+80,HTTP,7442
+22,SSH,192
+21,FTP,182
+8080,HTTP-alt,28
+1002,Otro,10
+492,Otro,9
+630,Otro,9
+443,HTTPS,9
+608,Otro,9
+633,Otro,8

@@ -1,0 +1,14 @@
+categoria,label,count,porcentaje
+Benigno,BENIGN,48888,81.683
+DoS,DoS Hulk,4463,7.457
+Escaneo de puertos,PortScan,3123,5.218
+DDoS,DDoS,2398,4.007
+DoS,DoS GoldenEye,239,0.399
+Fuerza bruta,SSH-Patator,190,0.317
+Fuerza bruta,FTP-Patator,180,0.301
+DoS,DoS Slowhttptest,133,0.222
+DoS,DoS slowloris,113,0.189
+Botnet,Bot,67,0.112
+Ataque web,Web Attack - Brute Force,36,0.06
+Ataque web,Web Attack - XSS,16,0.027
+Infiltración,Infiltration,5,0.008

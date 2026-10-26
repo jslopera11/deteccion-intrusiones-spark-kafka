@@ -1,0 +1,3 @@
+# PySpark viene incluido en la instalación de Apache Spark de la máquina virtual (spark-submit).
+kafka-python>=2.0.6   # productor de Kafka (la 2.0.2 falla en Python 3.12)
+matplotlib>=3.5       # gráficos del análisis batch
