@@ -1,0 +1,17 @@
+# Dataset completo (supera el límite de GitHub); se conserva solo la muestra
+data/*.csv
+!data/cicids2017_muestra.csv
+data/*.zip
+
+# Resultados pesados o regenerables
+output/*.parquet/
+spark-warehouse/
+checkpoint/
+metastore_db/
+derby.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+kafka-env/
